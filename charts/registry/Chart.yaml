@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Simple Docker Registry in Kubernetes
+name: registry
+version: 0.1.0-dev
